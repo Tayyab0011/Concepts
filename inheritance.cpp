@@ -51,6 +51,5 @@ int main(){
 	Admin a1;
     a1.print();
     cout<<a1.name<<" "<<a1.phone<<" "<<a1.status<<" "<<a1.date_created;
-
 }
 
